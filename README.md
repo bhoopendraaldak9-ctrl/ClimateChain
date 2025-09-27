@@ -104,4 +104,13 @@ Policy Integration: Work with governments to integrate platform data into policy
 Climate Finance: Expand to broader climate finance instruments beyond carbon credits
 Ecosystem Development: Foster a complete ecosystem of climate action tools and services
 Climate Chain - Empowering Global Climate Action Through Blockchain Technology
+## Deployed Contract
+
+- **Contract name:** ClimateChain
+- **Network:** Sepolia Testnet
+- **Contract address:** `0xC2e392daffCea6eBad43DD4DFc2Cae0017E8b13d`
+- **Transaction hash:** `0xd19bff9892de9d5a536cb1079de95052bb3bdca1af6ae2bf8fc6af454f4b2def`
+- **Block explorer:** [View Transaction](https://sepolia.etherscan.io/tx/0xd19bff9892de9d5a536cb1079de95052bb3bdca1af6ae2bf8fc6af454f4b2def)
+
+
 
