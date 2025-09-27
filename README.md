@@ -1,5 +1,7 @@
 **#Climate Chain**
+
 Project Description
+
 Climate Chain is a revolutionary blockchain-based platform that facilitates transparent carbon credit trading and environmental impact tracking. Built on Ethereum, this smart contract system enables organizations and individuals to register environmental projects, earn verified carbon credits, and participate in a decentralized marketplace for carbon offset trading.
 
 The platform addresses the growing need for transparent, verifiable, and efficient carbon credit systems in the fight against climate change. By leveraging blockchain technology, Climate Chain ensures immutable records of environmental projects and carbon credit transactions, fostering trust and accountability in the carbon offset market.
