@@ -114,7 +114,7 @@ Climate Chain - Empowering Global Climate Action Through Blockchain Technology
 
 - ## Transaction Screenshot
 
-![Transaction Screenshot](Images/screenshots/Screenshot%202025-09-27%20174503tr.png)
+![Transaction Screenshot](Images,screenshots/Screenshot%202025-09-27%20174503tr.png)
 
   
 
